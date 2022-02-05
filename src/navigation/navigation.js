@@ -1,5 +1,3 @@
-
-
 function navigation() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
