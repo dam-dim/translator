@@ -72,39 +72,6 @@ function App() {
                   </div>
               </div>
           </div>
-
-          {/*<div className="row bg-light text-center text-white">*/}
-          {/*        <div className="container p-4 pb-0">*/}
-          {/*            <section className="mb-4">*/}
-          {/*                <a*/}
-          {/*                    className="btn btn-primary btn-floating m-1"*/}
-          {/*                    style="background-color: #3b5998;"*/}
-          {/*                    href="#"*/}
-          {/*                    role="button"*/}
-          {/*                >*/}
-          {/*                    <i className="bi bi-facebook"/>*/}
-          {/*                </a>*/}
-
-          {/*                <a*/}
-          {/*                    className="btn btn-primary btn-floating m-1"*/}
-          {/*                    style="background-color: #55acee;"*/}
-          {/*                    href="#"*/}
-          {/*                    role="button"*/}
-          {/*                ><i className="bi bi-twitter"/></a>*/}
-
-          {/*                <a*/}
-          {/*                    className="btn btn-primary btn-floating m-1"*/}
-          {/*                    style="background-color: #ac2bac;"*/}
-          {/*                    href="#"*/}
-          {/*                    role="button"*/}
-          {/*                ><i className="bi bi-instagram"/></a>*/}
-          {/*            </section>*/}
-          {/*        </div>*/}
-          {/*        <div className="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">*/}
-          {/*            © 2022 Copyright:*/}
-          {/*            <a className="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>*/}
-          {/*        </div>*/}
-          {/*</div>*/}
       </div>
   );
 }
