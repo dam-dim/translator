@@ -1,9 +1,0 @@
-#slogan {
-    color: #5A4AE3;
-    font-family: NexaRustSlab-Black, serif;
-}
-
-@font-face {
-    font-family: "NexaRustSlab-Black";
-    src: local("./fonts/NexaRustSans-Black.otf");
-}
